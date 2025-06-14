@@ -5,7 +5,7 @@
       <h3 class="course-title">Course Content</h3>
     </div>
 
-    <!-- Course Stats Section -->
+    <!-- Course Stats Section for me only to test the code review ai is working properly or nor -->
     <div class="course-stats">
       <div class="stats">
         <span class="section-details">
