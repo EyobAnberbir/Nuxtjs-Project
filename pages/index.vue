@@ -22,7 +22,7 @@ const scrolled = ref(false);
 
 // Function to track page scroll
 const handleScroll = () => {
-  scrolled.value = window.scrollY > 100; // You can adjust this threshold as needed feed niicve talk
+  scrolled.value = window.scrollY > 100; // You can adjust this threshold as needed feed niicve talknjvndfm vkjdfv nvfsd;niv fdnsv jfd v s dfv;sdfj
 };
 
 // Adding the scroll event listener when the component is mounted
