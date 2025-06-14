@@ -2,7 +2,7 @@
   <div>
     <Top />
 
-    <!-- Conditionally render Navbar or Sticky -->
+    <!-- Conditionally ni=ot==ttgsgsdfgsfd fdg sfdgs dfg s fdg sfd gfdsg fdsrender Navbar or Sticky -->
     <Navbar v-if="!scrolled" />
     <Sticky v-if="scrolled" />
 
