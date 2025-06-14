@@ -22,7 +22,7 @@ const scrolled = ref(false);
 
 // Function to track page scroll
 const handleScroll = () => {
-  scrolled.value = window.scrollY > 100; // You can adjust this threshold as needed
+  scrolled.value = window.scrollY > 100; // You can adjust this threshold as needed feed niicve talk
 };
 
 // Adding the scroll event listener when the component is mounted
