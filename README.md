@@ -10,6 +10,7 @@ Make sure to install dependencies:
 # npm
 npm install
 
+tested new
 # pnpm
 pnpm install
 
