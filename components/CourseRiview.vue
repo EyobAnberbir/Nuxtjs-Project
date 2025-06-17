@@ -9,7 +9,7 @@
       </div>
     </div>
 
-    <!-- Reviews Section (2 Column Layout) -->
+    <!-- Reviews Section (2 Column Layout) it look nice doing the first start  -->
     <div class="reviews-grid">
       <div class="review-card">
         <div class="review-header">
